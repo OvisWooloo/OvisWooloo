@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/175656843?v=4" height="128">
+  <img src="https://github.com/OvisWooloo/OvisWooloo/blob/main/Images/banner.jpg?raw=true" height="150">
 </p>
 
 <h1 align="center">✨ Welcome to my «Ovis Wooloo» project!</h1> 
@@ -22,7 +22,7 @@ Outside of GitHub, I make lighthearted, mature 3D renders and animations featuri
 
 ## 🤍 My Motivation
 I love immersing myself into virtual worlds where the environment that surrounds me is huge.
-I also appreciate the imagination, art, love and dedication put into developing and bringing these games to life.
+I also appreciate the imagination, art, love and dedication poured into developing and bringing these games to life.
 
 ## ☁️ My Future Goal
 I've always dreamed of developing a mature 3D action videogame where you interact with giant characters in different scenarios.
@@ -30,6 +30,7 @@ I've always dreamed of developing a mature 3D action videogame where you interac
 
 ## 🔗 Quick Links
 > ⚠️ **WARNING: Mature Content ahead!**
+- [itch.io](https://oviswooloo.itch.io/)
 - 🔞 [My Neocities Page](https://oviswooloo.neocities.org)
 - 🔞 [DeviantArt](https://www.deviantart.com/oviswooloo)
 - 🔞 [Twitter](https://x.com/OvisWooloo)
