@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://github.com/OvisWooloo/OvisWooloo/blob/main/Images/Banner.jpg?raw=true" height="150">
-</p>
+![Banner](Images/Banner.jpg)
 
 <h1 align="center">✨ Welcome to my «Ovis Wooloo» project!</h1> 
 
-<p align="center">I'm a hobbyist game developer from Andorra.</p>
+<p align="center">I'm a hobbyist **game developer** from Andorra.</p>
 
 > I use GitHub for **game development**.
 
