@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/OvisWooloo/OvisWooloo/blob/main/Images/banner.jpg?raw=true" height="150">
+  <img src="https://github.com/OvisWooloo/OvisWooloo/blob/main/Images/Banner.jpg?raw=true" height="150">
 </p>
 
 <h1 align="center">✨ Welcome to my «Ovis Wooloo» project!</h1> 
